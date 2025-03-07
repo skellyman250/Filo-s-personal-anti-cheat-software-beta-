@@ -6,6 +6,26 @@ well i dont have much to say but thank you
 (edit)
 make sure to read HOW TO SETUP and report any bugs found
 
-(commands)
+Available Commands:
+
+Open AutoMod UI:
+
+!OAM (Open Auto Mod)
+!AOM (Auto Open Mod)
 !openautomod
-!AOM
+/anticheat
+Look up banned player:
+
+!LU <banId> (Look Up)
+!lookup <banId>
+/anticheat lookup <banId>
+Clear player logs:
+
+!CL <username> (Clear)
+!clear <username>
+/anticheat clear <username>
+Show help:
+
+!H (Help)
+!help
+/anticheat help
