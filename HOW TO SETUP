@@ -1,1 +1,5 @@
-
+DataManager.lua --> ServerScriptService/DataManager
+AntiCheatSystem.server.lua --> ServerScriptService/AntiCheatSystem
+UIComponents.lua --> ReplicatedStorage/UIComponents
+Styles.lua --> StarterGui/AntiCheatUI/Styles
+MainUI.lua --> StarterGui/AntiCheatUI/MainUI
